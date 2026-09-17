@@ -1,0 +1,69 @@
+body{
+    max-width: 55vw;
+    margin: auto;
+}
+
+header{
+    border: solid 2px grey;
+    color: grey;
+    border-radius: 5px;
+    padding-left: 2vw;
+}
+
+nav{
+    background-color: rgb(192, 192, 192);
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+
+nav ul{
+    margin: 0;
+    list-style: none;
+}
+
+nav ul li a{
+    text-decoration: none;
+}
+
+#elsoul{
+    border: 1px solid grey;
+    padding: 10px 10px 10px 10px;
+    background-color: red;
+}
+
+#elsoul li a{
+    color: white;
+}
+
+#masodikul li{
+    border: 1px solid grey;
+    padding: 10px 10px 10px 10px;
+}
+
+#masodikul li a{
+    color: red;
+}
+
+article{
+    border-radius: 5px;
+    border: 1px solid grey;
+    padding: 20px;
+}
+
+div{
+    background-color: rgb(192, 192, 192);
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+div h1{
+    background-color: red;
+    color: white;
+    padding: 5px;
+    font-size: 25px;
+}
+
+div p{
+    color: rgb(255, 244, 228);
+}

@@ -1,0 +1,25 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+#elsoul{
+    display: flex;
+    align-items: center;
+}
+
+#masodikul{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+article{
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+div{
+    flex: 1 1 200px;
+}
